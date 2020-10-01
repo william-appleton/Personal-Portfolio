@@ -16,3 +16,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 }
+
+.top-border {
+    border-top: 10px solid rgb(75, 90, 90);
+}
