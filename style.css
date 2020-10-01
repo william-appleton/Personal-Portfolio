@@ -16,6 +16,9 @@ body {
     border-top: 10px solid rgb(75, 90, 90);
 }
 
-.margin-top{
+/*Margin for bio card*/
+.margins{
     margin-top: 50px;
+    margin-bottom: 200px;
 }
+
