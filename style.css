@@ -1,22 +1,21 @@
-/*Following code from: https://mdbootstrap.com/docs/jquery/css/background-image/*/
-
-body, html {
-    height: 100%;
-  }
-
-  .bg {
-/* The image used */
-background-image: url("./images/tropical-leaves-free-background-picjumbo-com.jpg");
-
-/* Full height */
-height: 100%;
-
-/* Center and scale the image nicely */
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+/*Free background image from: https://picjumbo.com/tropical-leaves-free-background/*/
+body {
+    background-image: url(./images/tropical-leaves-free-background-picjumbo-com.jpg);
+    background-size: cover;
+    background-color: rgb(49, 88, 80);
 }
 
+/*Right Align Navbar links*/
+.navbar-right {
+    position: absolute;
+    right: 10px;
+}
+
+/*Border over footer*/
 .top-border {
     border-top: 10px solid rgb(75, 90, 90);
+}
+
+.margin-top{
+    margin-top: 50px;
 }
