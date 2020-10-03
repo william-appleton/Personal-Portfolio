@@ -9,6 +9,6 @@ The three pages can be seen at the following links:
 
 The following images show what the deployed application looks like:
 
-![home](./images/home)
-![portfolio](./images/portfolio)
-![contact](./images/contact)
+![home](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/home.PNG)
+![portfolio](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/portfolio.PNG)
+![contact](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/contact.PNG)
