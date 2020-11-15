@@ -12,6 +12,6 @@ Contact:  https://william-appleton.github.io/Personal-Portfolio/contact.html
 
 The following images show what the deployed application looks like:
 
-![home](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/home.PNG)
-![portfolio](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/portfolio.PNG)
-![contact](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/contact.PNG)
+![home](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/home2.PNG)
+![portfolio](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/portfolio2.PNG)
+![contact](https://raw.githubusercontent.com/william-appleton/Personal-Portfolio/master/images/contact2.PNG)
